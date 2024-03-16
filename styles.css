@@ -1,0 +1,12 @@
+html, 
+body {
+    background-color: #575366;
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+
+
